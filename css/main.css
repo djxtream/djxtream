@@ -464,8 +464,9 @@ body .btn-primary:hover {
   height: 80px; }
 
 .header .logo img {
-  height: 161px;
-  width :  258px;
+  height: 173%;
+  width: 197px;
+  margin-top: -3%;
 }
 
 .header .in-header {
